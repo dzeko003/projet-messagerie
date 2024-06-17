@@ -1,3 +1,5 @@
 <?php 
-    echo 'Bonjour !'
+    echo 'Bonjour !';
+
+    echo "gestion de la connexion";
 ?>
